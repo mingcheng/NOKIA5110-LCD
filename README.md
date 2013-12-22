@@ -1,6 +1,6 @@
 # Arduino Library for Nokia 5110
 
-[Screen Shots](http://files.gracecode.com/2013_12_22/1387719744.png)
+![Screen Shots](http://files.gracecode.com/2013_12_22/1387719744.png)
 
 ## Example
 
